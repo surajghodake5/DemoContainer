@@ -1,2 +1,2 @@
 # DemoContainer
-This is the demo for deplyoing software on aws
+This is the demo for deploying software on aws
